@@ -1,0 +1,64 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="600" d:DesignHeight="400"
+        x:Class="RecommendationsAvalonia.PodborCard"
+        Title="Подборки"
+        Background="#FAF8F5"
+        MinWidth="500" MinHeight="300">
+    
+    <Border Background="White" 
+            BorderBrush="#D4C5B0" 
+            BorderThickness="1" 
+            CornerRadius="0"
+            Margin="40"
+            Padding="28">
+        
+        <StackPanel Spacing="20">
+            
+            <TextBlock Text="Подборки" 
+                       FontSize="20" 
+                       FontWeight="Normal"
+                       Foreground="#4A3B2C"
+                       Margin="0,0,0,8"/>
+            
+            <Border Height="1" Background="#D4C5B0"/>
+            
+            <StackPanel Spacing="12">
+                <TextBlock Text="Выберите подборку" 
+                           FontSize="13" 
+                           Foreground="#5C4D3E"/>
+                
+                <ComboBox Name="cb" 
+                          Background="White"
+                          BorderBrush="#D4C5B0"
+                          BorderThickness="1"
+                          Padding="10,8"
+                          FontSize="14"
+                          Foreground="#5C4D3E"/>
+            </StackPanel>
+            
+            <Grid ColumnDefinitions="*, *" ColumnSpacing="12">
+                <Button Click="add_Click" 
+                        Name="add" 
+                        Content="Добавить"
+                        Grid.Column="0"
+                        Background="#8B2C1D"
+                        BorderThickness="0"
+                        Foreground="White"
+                        FontSize="14"
+                        Padding="16,10"/>
+                
+                <Button Click="Button_Click" Content="Отмена"
+                        Grid.Column="1"
+                        Background="White"
+                        BorderBrush="#D4C5B0"
+                        BorderThickness="1"
+                        Foreground="#5C4D3E"
+                        FontSize="14"
+                        Padding="16,10"/>
+            </Grid>
+        </StackPanel>
+    </Border>
+</Window>

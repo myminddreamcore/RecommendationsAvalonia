@@ -1,0 +1,179 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="1366" d:DesignHeight="768"
+        x:Class="RecommendationsAvalonia.Podborka"
+        Title="Подборки"
+        Background="#FAF8F5"
+        MinWidth="1366" MinHeight="768">
+    
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="280"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Border Grid.Column="0" Background="#FAF8F5" BorderBrush="#D4C5B0" BorderThickness="0,0,1,0">
+            <StackPanel Margin="24,32,24,0" Spacing="0">
+                
+                <TextBlock Text="haha.ru" 
+                           FontSize="18" 
+                           FontWeight="Normal"
+                           Foreground="#8B2C1D"
+                           Margin="0,0,0,32"/>
+
+                <StackPanel Spacing="4">
+                     <TextBlock PointerPressed="TextBlock_PointerPressed_2" Text="Главная" 
+                               FontSize="14" 
+                               Foreground="#5C4D3E"
+                               
+                               Padding="0,10,0,10"/>
+                    <TextBlock Text="Поиск" 
+                               PointerPressed="TextBlock_PointerPressed"
+                               FontSize="14" 
+                               Foreground="#5C4D3E"
+                               Padding="0,10,0,10"/>
+                    <TextBlock Text="Подборки" 
+                               PointerPressed="TextBlock_PointerPressed_1"
+                               FontSize="14" 
+                               Foreground="#8B2C1D"
+                               Padding="0,10,0,10"/>
+                    <!-- <TextBlock Text="Отчеты" 
+                               FontSize="14" 
+                               Foreground="#5C4D3E"
+                               Padding="0,10,0,10"/>
+                    <TextBlock Text="Аналитика" 
+                               FontSize="14" 
+                               Foreground="#5C4D3E"
+                               Padding="0,10,0,10"/>
+                    <TextBlock Text="Администрирование" 
+                               FontSize="14" 
+                               Foreground="#5C4D3E"
+                               Padding="0,10,0,10"/>-->
+                </StackPanel> 
+            </StackPanel>
+        </Border>
+
+        <Border Grid.Column="1" Background="White" Margin="0,0,0,0">
+            <StackPanel Margin="32,32,32,32" Spacing="24">
+                
+                <Grid ColumnDefinitions="*, Auto, Auto, Auto, Auto" ColumnSpacing="16">
+                    <TextBlock Grid.Column="0" Text="Фото" FontSize="13" Foreground="#5C4D3E" VerticalAlignment="Center"/>
+                    <TextBlock Grid.Column="1" Name="fio" FontSize="14" Foreground="#4A3B2C" VerticalAlignment="Center"/>
+                    <TextBlock Grid.Column="2" Name="role" FontSize="13" Foreground="#8B7A6B" VerticalAlignment="Center"/>
+                   
+                    <Button Grid.Column="4" Content="Выход" Background="White" BorderBrush="#D4C5B0" BorderThickness="1" Foreground="#8B2C1D" Padding="16,6"/>
+                </Grid>
+
+                <Border Height="1" Background="#D4C5B0"/>
+
+                <Grid ColumnDefinitions="1*, 2*" ColumnSpacing="32">
+                    
+                    <Border Grid.Column="0" Background="#FAF8F5" BorderBrush="#D4C5B0" BorderThickness="1" Padding="20">
+                        <StackPanel Spacing="16">
+                            <StackPanel Spacing="8">
+                                <TextBlock Text="Название подборки" FontSize="13" Foreground="#5C4D3E"/>
+                                <TextBlock Name="name" FontSize="18" Foreground="#4A3B2C"/>
+                            </StackPanel>
+                            
+                            <Border Height="1" Background="#D4C5B0"/>
+                            
+                            <StackPanel Spacing="8">
+                                <TextBlock Text="Редактировать название" FontSize="13" Foreground="#5C4D3E"/>
+                                <TextBox Name="newname" 
+                                         Background="White"
+                                         BorderBrush="#D4C5B0"
+                                         BorderThickness="1"
+                                         Padding="10,8"
+                                         FontSize="13"/>
+                                <Button Click="Button_Click" 
+                                        Content="Редактировать"
+                                        Background="White"
+                                        BorderBrush="#D4C5B0"
+                                        BorderThickness="1"
+                                        Foreground="#5C4D3E"
+                                        Padding="16,8"/>
+                            </StackPanel>
+                            
+                            <Border Height="1" Background="#D4C5B0"/>
+                            
+                            <StackPanel Spacing="4">
+                                <TextBlock Text="Количество кандидатов" FontSize="12" Foreground="#8B7A6B"/>
+                                <TextBlock Name="col" FontSize="24" Foreground="#8B2C1D"/>
+                            </StackPanel>
+                            
+                            <StackPanel Spacing="4">
+                                <TextBlock Text="Дата создания" FontSize="12" Foreground="#8B7A6B"/>
+                                <TextBlock Name="date" FontSize="13" Foreground="#5C4D3E"/>
+                            </StackPanel>
+                        </StackPanel>
+                    </Border>
+
+                    <StackPanel Grid.Column="1" Spacing="20">
+                        
+                        <DataGrid Name="dg" 
+                                  Background="White"
+                                  BorderBrush="#D4C5B0"
+                                  BorderThickness="1"
+                                  HeadersVisibility="Column"
+                                  RowBackground="White"
+                                  GridLinesVisibility="Horizontal"
+                                  HorizontalGridLinesBrush="#E8DFD4"
+                                  VerticalGridLinesBrush="Transparent">
+                            <DataGrid.Columns>
+                                <DataGridTextColumn Binding="{Binding Id}" 
+                                                    Header="Номер" 
+                                                    Width="80"
+                                                    Foreground="#5C4D3E"/>
+                                <DataGridTextColumn Binding="{Binding Name}" 
+                                                    Header="Имя" 
+                                                    Width="*"
+                                                    Foreground="#5C4D3E"/>
+                                <DataGridTextColumn Binding="{Binding Rating}" 
+                                                    Header="Рейтинг" 
+                                                    Width="100"
+                                                    Foreground="#5C4D3E"/>
+                            </DataGrid.Columns>
+                        </DataGrid>
+
+                        <Grid ColumnDefinitions="Auto, Auto, Auto, Auto, Auto, *" ColumnSpacing="12">
+                           
+                            <Button Click="Button_Click_1" 
+                                    Content="Пред" 
+                                    Grid.Column="1"
+                                    Background="White"
+                                    BorderBrush="#D4C5B0"
+                                    BorderThickness="1"
+                                    Foreground="#5C4D3E"
+                                    Padding="20,8"/>
+                            <Button Click="Button_Click_2" 
+                                    Content="След" 
+                                    Grid.Column="2"
+                                    Background="White"
+                                    BorderBrush="#D4C5B0"
+                                    BorderThickness="1"
+                                    Foreground="#5C4D3E"
+                                    Padding="20,8"/>
+                            <Button Click="Button_Click_5"  Content="Экспорт" 
+                                    Grid.Column="3"
+                                    Background="White"
+                                    BorderBrush="#D4C5B0"
+                                    BorderThickness="1"
+                                    Foreground="#5C4D3E"
+                                    Padding="20,8"/>
+                            <Button Click="Button_Click_3" 
+                                    Content="Удалить" 
+                                    Grid.Column="4"
+                                    Background="White"
+                                    BorderBrush="#D4C5B0"
+                                    BorderThickness="1"
+                                    Foreground="#8B2C1D"
+                                    Padding="20,8"/>
+                        </Grid>
+                    </StackPanel>
+                </Grid>
+            </StackPanel>
+        </Border>
+    </Grid>
+</Window>

@@ -1,0 +1,73 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="1366" d:DesignHeight="768"
+        x:Class="RecommendationsAvalonia.Card"
+        Title="карточка соискателя"
+        Background="#FAF8F5">
+    
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="280"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+      
+                <Grid ColumnDefinitions="Auto, *" ColumnSpacing="32">
+                    
+                    <Border Grid.Column="0" Width="280" Background="#FAF8F5" BorderBrush="#D4C5B0" BorderThickness="1" Padding="20">
+                        <StackPanel Spacing="16">
+                            
+                            <Grid ColumnDefinitions="Auto, *" ColumnSpacing="12">
+                                <Border Width="50" Height="50" Background="#E8DFD4" BorderBrush="#D4C5B0" BorderThickness="1"/>
+                                <StackPanel Grid.Column="1" Spacing="4">
+                                    <TextBlock Name="fioo" FontSize="14" FontWeight="Normal" Foreground="#4A3B2C"/>
+                                    <TextBlock Text="Анонимный профиль" FontSize="12" Foreground="#8B7A6B"/>
+                                </StackPanel>
+                            </Grid>
+
+                            <Border Height="1" Background="#D4C5B0"/>
+
+                            <StackPanel Spacing="8">
+                                <TextBlock Text="Карточка надежности" FontSize="13" FontWeight="Normal" Foreground="#4A3B2C"/>
+                                <TextBlock Name="compet" FontSize="12" Foreground="#5C4D3E"/>
+                                <TextBlock Name="trust" FontSize="12" Foreground="#5C4D3E"/>
+                            </StackPanel>
+
+                            <Border Height="1" Background="#D4C5B0"/>
+
+                            <StackPanel Spacing="8">
+                                <TextBlock Text="Подтвержденные навыки" FontSize="13" Foreground="#4A3B2C"/>
+                                <ItemsControl Name="skills">
+                                    <ItemsControl.ItemTemplate>
+                                        <DataTemplate>
+                                            <TextBlock Text="{Binding}" FontSize="12" Foreground="#5C4D3E" Margin="0,4,0,0"/>
+                                        </DataTemplate>
+                                    </ItemsControl.ItemTemplate>
+                                </ItemsControl>
+                            </StackPanel>
+
+                            <Border Height="1" Background="#D4C5B0"/>
+
+                            <StackPanel Spacing="8">
+                                <TextBlock Text="Опыт работы" FontSize="13" Foreground="#4A3B2C"/>
+                                <ItemsControl Name="work">
+                                    <ItemsControl.ItemTemplate>
+                                        <DataTemplate>
+                                            <TextBlock Text="{Binding}" FontSize="12" Foreground="#5C4D3E" Margin="0,4,0,0"/>
+                                        </DataTemplate>
+                                    </ItemsControl.ItemTemplate>
+                                </ItemsControl>
+                            </StackPanel>
+                            <StackPanel Orientation="Vertical">
+                            <Button Click="Button_Click" Content="Назад" Background="White" BorderBrush="#D4C5B0" BorderThickness="1" Foreground="#5C4D3E" Padding="20,10"/>
+                            <Button Click="Button_Click_2" Content="В подборку" Background="White" BorderBrush="#D4C5B0" BorderThickness="1" Foreground="#5C4D3E" Padding="20,10"/>
+                        </StackPanel>
+                        </StackPanel>
+                    </Border>
+
+                   
+                </Grid>
+    </Grid>
+</Window>

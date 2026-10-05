@@ -1,0 +1,7 @@
+/home/user/Рабочий стол/RecommendationsAvalonia/obj/Release/net10.0/RecommendationsAvalonia.csproj.AssemblyReference.cache
+/home/user/Рабочий стол/RecommendationsAvalonia/obj/Release/net10.0/Avalonia/Resources.Inputs.cache
+/home/user/Рабочий стол/RecommendationsAvalonia/obj/Release/net10.0/Avalonia/resources
+/home/user/Рабочий стол/RecommendationsAvalonia/obj/Release/net10.0/RecommendationsAvalonia.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Рабочий стол/RecommendationsAvalonia/obj/Release/net10.0/RecommendationsAvalonia.AssemblyInfoInputs.cache
+/home/user/Рабочий стол/RecommendationsAvalonia/obj/Release/net10.0/RecommendationsAvalonia.AssemblyInfo.cs
+/home/user/Рабочий стол/RecommendationsAvalonia/obj/Release/net10.0/RecommendationsAvalonia.csproj.CoreCompileInputs.cache

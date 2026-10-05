@@ -1,0 +1,767 @@
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/RecommendationsAvalonia
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/RecommendationsAvalonia.deps.json
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/RecommendationsAvalonia.runtimeconfig.json
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/RecommendationsAvalonia.dll
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/RecommendationsAvalonia.pdb
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Base.dll
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Controls.dll
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.DesignerSupport.dll
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Dialogs.dll
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Markup.Xaml.dll
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Markup.dll
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Metal.dll
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.MicroCom.dll
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.OpenGL.dll
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Vulkan.dll
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.dll
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Desktop.dll
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Fonts.Inter.dll
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.FreeDesktop.dll
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.FreeDesktop.AtSpi.dll
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.HarfBuzz.dll
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Native.dll
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Remote.Protocol.dll
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Skia.dll
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Themes.Fluent.dll
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Win32.Automation.dll
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Win32.dll
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.X11.dll
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/AvaloniaUI.DiagnosticsSupport.Avalonia.dll
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/DialogHost.Avalonia.dll
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/HarfBuzzSharp.dll
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/MsBox.Avalonia.dll
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/MicroCom.Runtime.dll
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.dll
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Extensions.Caching.Memory.dll
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Extensions.DependencyInjection.dll
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Extensions.Logging.dll
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Extensions.Options.dll
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Extensions.Primitives.dll
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.IO.RecyclableMemoryStream.dll
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/Newtonsoft.Json.dll
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/SkiaSharp.dll
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/Tmds.DBus.Protocol.dll
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-arm64/native/av_libglesv2.dll
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x64/native/av_libglesv2.dll
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x86/native/av_libglesv2.dll
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/osx/native/libAvaloniaNative.dylib
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-arm/native/libHarfBuzzSharp.so
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-loongarch64/native/libHarfBuzzSharp.so
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-arm/native/libHarfBuzzSharp.so
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-arm64/native/libHarfBuzzSharp.so
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-loongarch64/native/libHarfBuzzSharp.so
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-riscv64/native/libHarfBuzzSharp.so
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-riscv64/native/libHarfBuzzSharp.so
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-x64/native/libHarfBuzzSharp.so
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-x86/native/libHarfBuzzSharp.so
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/osx/native/libHarfBuzzSharp.dylib
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-arm64/native/libHarfBuzzSharp.pdb
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x64/native/libHarfBuzzSharp.dll
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x64/native/libHarfBuzzSharp.pdb
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x86/native/libHarfBuzzSharp.dll
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x86/native/libHarfBuzzSharp.pdb
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-arm/native/libSkiaSharp.so
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-arm64/native/libSkiaSharp.so
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-loongarch64/native/libSkiaSharp.so
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-arm/native/libSkiaSharp.so
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-arm64/native/libSkiaSharp.so
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-loongarch64/native/libSkiaSharp.so
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-riscv64/native/libSkiaSharp.so
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-x64/native/libSkiaSharp.so
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-riscv64/native/libSkiaSharp.so
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-x64/native/libSkiaSharp.so
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-x86/native/libSkiaSharp.so
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/osx/native/libSkiaSharp.dylib
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-arm64/native/libSkiaSharp.dll
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-arm64/native/libSkiaSharp.pdb
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x64/native/libSkiaSharp.dll
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x64/native/libSkiaSharp.pdb
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x86/native/libSkiaSharp.dll
+/home/uksivt/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x86/native/libSkiaSharp.pdb
+/home/uksivt/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.csproj.AssemblyReference.cache
+/home/uksivt/RecommendationsAvalonia/obj/Debug/net10.0/Avalonia/Resources.Inputs.cache
+/home/uksivt/RecommendationsAvalonia/obj/Debug/net10.0/Avalonia/resources
+/home/uksivt/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.GeneratedMSBuildEditorConfig.editorconfig
+/home/uksivt/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.AssemblyInfoInputs.cache
+/home/uksivt/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.AssemblyInfo.cs
+/home/uksivt/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.csproj.CoreCompileInputs.cache
+/home/uksivt/RecommendationsAvalonia/obj/Debug/net10.0/Recommen.1BBACEF1.Up2Date
+/home/uksivt/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.dll
+/home/uksivt/RecommendationsAvalonia/obj/Debug/net10.0/refint/RecommendationsAvalonia.dll
+/home/uksivt/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.pdb
+/home/uksivt/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.genruntimeconfig.cache
+/home/uksivt/RecommendationsAvalonia/obj/Debug/net10.0/ref/RecommendationsAvalonia.dll
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/RecommendationsAvalonia
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/RecommendationsAvalonia.deps.json
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/RecommendationsAvalonia.runtimeconfig.json
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/RecommendationsAvalonia.dll
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/RecommendationsAvalonia.pdb
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Base.dll
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Controls.dll
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.DesignerSupport.dll
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Dialogs.dll
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Markup.Xaml.dll
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Markup.dll
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Metal.dll
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.MicroCom.dll
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.OpenGL.dll
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Vulkan.dll
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.dll
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Desktop.dll
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Fonts.Inter.dll
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.FreeDesktop.dll
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.FreeDesktop.AtSpi.dll
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.HarfBuzz.dll
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Native.dll
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Remote.Protocol.dll
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Skia.dll
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Themes.Fluent.dll
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Win32.Automation.dll
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Win32.dll
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.X11.dll
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/AvaloniaUI.DiagnosticsSupport.Avalonia.dll
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/DialogHost.Avalonia.dll
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/HarfBuzzSharp.dll
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/MsBox.Avalonia.dll
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/MicroCom.Runtime.dll
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.dll
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Extensions.Caching.Memory.dll
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Extensions.DependencyInjection.dll
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Extensions.Logging.dll
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Extensions.Options.dll
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Extensions.Primitives.dll
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.IO.RecyclableMemoryStream.dll
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Newtonsoft.Json.dll
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/SkiaSharp.dll
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Tmds.DBus.Protocol.dll
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-arm64/native/av_libglesv2.dll
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x64/native/av_libglesv2.dll
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x86/native/av_libglesv2.dll
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/osx/native/libAvaloniaNative.dylib
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-arm/native/libHarfBuzzSharp.so
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-loongarch64/native/libHarfBuzzSharp.so
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-arm/native/libHarfBuzzSharp.so
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-arm64/native/libHarfBuzzSharp.so
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-loongarch64/native/libHarfBuzzSharp.so
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-riscv64/native/libHarfBuzzSharp.so
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-riscv64/native/libHarfBuzzSharp.so
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-x64/native/libHarfBuzzSharp.so
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-x86/native/libHarfBuzzSharp.so
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/osx/native/libHarfBuzzSharp.dylib
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-arm64/native/libHarfBuzzSharp.pdb
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x64/native/libHarfBuzzSharp.dll
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x64/native/libHarfBuzzSharp.pdb
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x86/native/libHarfBuzzSharp.dll
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x86/native/libHarfBuzzSharp.pdb
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-arm/native/libSkiaSharp.so
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-arm64/native/libSkiaSharp.so
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-loongarch64/native/libSkiaSharp.so
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-arm/native/libSkiaSharp.so
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-arm64/native/libSkiaSharp.so
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-loongarch64/native/libSkiaSharp.so
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-riscv64/native/libSkiaSharp.so
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-x64/native/libSkiaSharp.so
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-riscv64/native/libSkiaSharp.so
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-x64/native/libSkiaSharp.so
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-x86/native/libSkiaSharp.so
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/osx/native/libSkiaSharp.dylib
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-arm64/native/libSkiaSharp.dll
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-arm64/native/libSkiaSharp.pdb
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x64/native/libSkiaSharp.dll
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x64/native/libSkiaSharp.pdb
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x86/native/libSkiaSharp.dll
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x86/native/libSkiaSharp.pdb
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.csproj.AssemblyReference.cache
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/obj/Debug/net10.0/Avalonia/Resources.Inputs.cache
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/obj/Debug/net10.0/Avalonia/resources
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.GeneratedMSBuildEditorConfig.editorconfig
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.AssemblyInfoInputs.cache
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.AssemblyInfo.cs
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.csproj.CoreCompileInputs.cache
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/obj/Debug/net10.0/Recommen.1BBACEF1.Up2Date
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.dll
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/obj/Debug/net10.0/refint/RecommendationsAvalonia.dll
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.pdb
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.genruntimeconfig.cache
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/obj/Debug/net10.0/ref/RecommendationsAvalonia.dll
+/home/uksivt/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Controls.DataGrid.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.csproj.AssemblyReference.cache
+/home/user/Рабочий стол/RecommendationsAvalonia/obj/Debug/net10.0/Avalonia/Resources.Inputs.cache
+/home/user/Рабочий стол/RecommendationsAvalonia/obj/Debug/net10.0/Avalonia/resources
+/home/user/Рабочий стол/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Рабочий стол/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.AssemblyInfoInputs.cache
+/home/user/Рабочий стол/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.AssemblyInfo.cs
+/home/user/Рабочий стол/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.csproj.CoreCompileInputs.cache
+/home/user/Рабочий стол/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/obj/Debug/net10.0/refint/RecommendationsAvalonia.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.pdb
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/RecommendationsAvalonia.deps.json
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/RecommendationsAvalonia.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/RecommendationsAvalonia.pdb
+/home/user/Рабочий стол/RecommendationsAvalonia/obj/Debug/net10.0/ref/RecommendationsAvalonia.dll
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/RecommendationsAvalonia
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/RecommendationsAvalonia.deps.json
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/RecommendationsAvalonia.runtimeconfig.json
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/RecommendationsAvalonia.dll
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/RecommendationsAvalonia.pdb
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Base.dll
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Controls.dll
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.DesignerSupport.dll
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Dialogs.dll
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Markup.Xaml.dll
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Markup.dll
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Metal.dll
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.MicroCom.dll
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.OpenGL.dll
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Vulkan.dll
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.dll
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Controls.DataGrid.dll
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Desktop.dll
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Fonts.Inter.dll
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.FreeDesktop.dll
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Native.dll
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Remote.Protocol.dll
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Skia.dll
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Themes.Fluent.dll
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Win32.Automation.dll
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Win32.dll
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.X11.dll
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/DialogHost.Avalonia.dll
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/HarfBuzzSharp.dll
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/MsBox.Avalonia.dll
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/MicroCom.Runtime.dll
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.dll
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Extensions.Caching.Memory.dll
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Extensions.DependencyInjection.dll
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Extensions.Logging.dll
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Extensions.Options.dll
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Extensions.Primitives.dll
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/Newtonsoft.Json.dll
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/SkiaSharp.dll
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/Tmds.DBus.Protocol.dll
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-arm64/native/av_libglesv2.dll
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x64/native/av_libglesv2.dll
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x86/native/av_libglesv2.dll
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/osx/native/libAvaloniaNative.dylib
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-arm/native/libHarfBuzzSharp.so
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-loongarch64/native/libHarfBuzzSharp.so
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-arm/native/libHarfBuzzSharp.so
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-arm64/native/libHarfBuzzSharp.so
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-loongarch64/native/libHarfBuzzSharp.so
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-riscv64/native/libHarfBuzzSharp.so
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-riscv64/native/libHarfBuzzSharp.so
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-x64/native/libHarfBuzzSharp.so
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-x86/native/libHarfBuzzSharp.so
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/osx/native/libHarfBuzzSharp.dylib
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x64/native/libHarfBuzzSharp.dll
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x86/native/libHarfBuzzSharp.dll
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-arm/native/libSkiaSharp.so
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-arm64/native/libSkiaSharp.so
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-x64/native/libSkiaSharp.so
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-x64/native/libSkiaSharp.so
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/osx/native/libSkiaSharp.dylib
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-arm64/native/libSkiaSharp.dll
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x64/native/libSkiaSharp.dll
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x86/native/libSkiaSharp.dll
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.csproj.AssemblyReference.cache
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/obj/Debug/net10.0/Avalonia/Resources.Inputs.cache
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/obj/Debug/net10.0/Avalonia/resources
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.GeneratedMSBuildEditorConfig.editorconfig
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.AssemblyInfoInputs.cache
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.AssemblyInfo.cs
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.csproj.CoreCompileInputs.cache
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/obj/Debug/net10.0/Recommen.1BBACEF1.Up2Date
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.dll
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/obj/Debug/net10.0/refint/RecommendationsAvalonia.dll
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.pdb
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.genruntimeconfig.cache
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/obj/Debug/net10.0/ref/RecommendationsAvalonia.dll
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.FreeDesktop.AtSpi.dll
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.HarfBuzz.dll
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/AvaloniaUI.DiagnosticsSupport.Avalonia.dll
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.IO.RecyclableMemoryStream.dll
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-arm64/native/libHarfBuzzSharp.pdb
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x64/native/libHarfBuzzSharp.pdb
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x86/native/libHarfBuzzSharp.pdb
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-loongarch64/native/libSkiaSharp.so
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-arm/native/libSkiaSharp.so
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-arm64/native/libSkiaSharp.so
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-loongarch64/native/libSkiaSharp.so
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-riscv64/native/libSkiaSharp.so
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-riscv64/native/libSkiaSharp.so
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-x86/native/libSkiaSharp.so
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-arm64/native/libSkiaSharp.pdb
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x64/native/libSkiaSharp.pdb
+/home/uksivt/Рабочий стол/задания итог/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x86/native/libSkiaSharp.pdb
+/home/user/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.csproj.AssemblyReference.cache
+/home/user/RecommendationsAvalonia/obj/Debug/net10.0/Avalonia/Resources.Inputs.cache
+/home/user/RecommendationsAvalonia/obj/Debug/net10.0/Avalonia/resources
+/home/user/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.csproj.CoreCompileInputs.cache
+/home/user/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.dll
+/home/user/RecommendationsAvalonia/obj/Debug/net10.0/refint/RecommendationsAvalonia.dll
+/home/user/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.pdb
+/home/user/RecommendationsAvalonia/bin/Debug/net10.0/RecommendationsAvalonia.deps.json
+/home/user/RecommendationsAvalonia/bin/Debug/net10.0/RecommendationsAvalonia.dll
+/home/user/RecommendationsAvalonia/bin/Debug/net10.0/RecommendationsAvalonia.pdb
+/home/user/RecommendationsAvalonia/obj/Debug/net10.0/ref/RecommendationsAvalonia.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/RecommendationsAvalonia.deps.json
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/RecommendationsAvalonia.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/RecommendationsAvalonia.pdb
+/home/user/RecommendationAv/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.csproj.AssemblyReference.cache
+/home/user/RecommendationAv/RecommendationsAvalonia/obj/Debug/net10.0/Avalonia/Resources.Inputs.cache
+/home/user/RecommendationAv/RecommendationsAvalonia/obj/Debug/net10.0/Avalonia/resources
+/home/user/RecommendationAv/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/RecommendationAv/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.csproj.CoreCompileInputs.cache
+/home/user/RecommendationAv/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/obj/Debug/net10.0/refint/RecommendationsAvalonia.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.pdb
+/home/user/RecommendationAv/RecommendationsAvalonia/obj/Debug/net10.0/ref/RecommendationsAvalonia.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.AssemblyInfoInputs.cache
+/home/user/RecommendationAv/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.AssemblyInfo.cs
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/RecommendationsAvalonia
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/RecommendationsAvalonia.runtimeconfig.json
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Appium.Net.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Base.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Controls.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.DesignerSupport.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Dialogs.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Markup.Xaml.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Markup.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Metal.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.MicroCom.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.OpenGL.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Vulkan.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Controls.DataGrid.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Desktop.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Fonts.Inter.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.FreeDesktop.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.FreeDesktop.AtSpi.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.HarfBuzz.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Headless.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Headless.NUnit.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Native.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Remote.Protocol.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Skia.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Themes.Fluent.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Win32.Automation.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Win32.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.X11.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/AvaloniaUI.DiagnosticsSupport.Avalonia.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/DialogHost.Avalonia.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/HarfBuzzSharp.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/MsBox.Avalonia.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/MicroCom.Runtime.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Extensions.Caching.Memory.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Extensions.DependencyInjection.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Extensions.Logging.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Extensions.Options.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Extensions.Primitives.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.IO.RecyclableMemoryStream.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Win32.SystemEvents.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Newtonsoft.Json.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/nunit.framework.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/nunit.framework.legacy.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/WebDriver.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/SkiaSharp.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/System.Drawing.Common.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Tmds.DBus.Protocol.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-arm64/native/av_libglesv2.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x64/native/av_libglesv2.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x86/native/av_libglesv2.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/osx/native/libAvaloniaNative.dylib
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-arm/native/libHarfBuzzSharp.so
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-loongarch64/native/libHarfBuzzSharp.so
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-arm/native/libHarfBuzzSharp.so
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-arm64/native/libHarfBuzzSharp.so
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-loongarch64/native/libHarfBuzzSharp.so
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-riscv64/native/libHarfBuzzSharp.so
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-riscv64/native/libHarfBuzzSharp.so
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-x64/native/libHarfBuzzSharp.so
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-x86/native/libHarfBuzzSharp.so
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/osx/native/libHarfBuzzSharp.dylib
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-arm64/native/libHarfBuzzSharp.pdb
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x64/native/libHarfBuzzSharp.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x64/native/libHarfBuzzSharp.pdb
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x86/native/libHarfBuzzSharp.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x86/native/libHarfBuzzSharp.pdb
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win/lib/net8.0/Microsoft.Win32.SystemEvents.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux/native/selenium-manager
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/osx/native/selenium-manager
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win/native/selenium-manager.exe
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-arm/native/libSkiaSharp.so
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-arm64/native/libSkiaSharp.so
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-loongarch64/native/libSkiaSharp.so
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-arm/native/libSkiaSharp.so
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-arm64/native/libSkiaSharp.so
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-loongarch64/native/libSkiaSharp.so
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-riscv64/native/libSkiaSharp.so
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-x64/native/libSkiaSharp.so
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-riscv64/native/libSkiaSharp.so
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-x64/native/libSkiaSharp.so
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-x86/native/libSkiaSharp.so
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/osx/native/libSkiaSharp.dylib
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-arm64/native/libSkiaSharp.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-arm64/native/libSkiaSharp.pdb
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x64/native/libSkiaSharp.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x64/native/libSkiaSharp.pdb
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x86/native/libSkiaSharp.dll
+/home/user/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x86/native/libSkiaSharp.pdb
+/home/user/RecommendationAv/RecommendationsAvalonia/obj/Debug/net10.0/Recommen.1BBACEF1.Up2Date
+/home/user/RecommendationAv/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.genruntimeconfig.cache
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/RecommendationsAvalonia
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/RecommendationsAvalonia.deps.json
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/RecommendationsAvalonia.runtimeconfig.json
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/RecommendationsAvalonia.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/RecommendationsAvalonia.pdb
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Appium.Net.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Base.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Controls.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.DesignerSupport.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Dialogs.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Markup.Xaml.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Markup.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Metal.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.MicroCom.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.OpenGL.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Vulkan.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Controls.DataGrid.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Desktop.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Fonts.Inter.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.FreeDesktop.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.FreeDesktop.AtSpi.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.HarfBuzz.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Headless.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Headless.NUnit.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Native.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Remote.Protocol.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Skia.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Themes.Fluent.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Win32.Automation.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Win32.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.X11.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/AvaloniaUI.DiagnosticsSupport.Avalonia.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/DialogHost.Avalonia.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/HarfBuzzSharp.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/MsBox.Avalonia.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/MicroCom.Runtime.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Extensions.Caching.Memory.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Extensions.DependencyInjection.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Extensions.Logging.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Extensions.Options.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Extensions.Primitives.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.IO.RecyclableMemoryStream.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Win32.SystemEvents.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Newtonsoft.Json.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/nunit.framework.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/nunit.framework.legacy.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/WebDriver.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/SkiaSharp.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/System.Drawing.Common.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/Tmds.DBus.Protocol.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-arm64/native/av_libglesv2.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x64/native/av_libglesv2.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x86/native/av_libglesv2.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/osx/native/libAvaloniaNative.dylib
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-arm/native/libHarfBuzzSharp.so
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-loongarch64/native/libHarfBuzzSharp.so
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-arm/native/libHarfBuzzSharp.so
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-arm64/native/libHarfBuzzSharp.so
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-loongarch64/native/libHarfBuzzSharp.so
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-riscv64/native/libHarfBuzzSharp.so
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-riscv64/native/libHarfBuzzSharp.so
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-x64/native/libHarfBuzzSharp.so
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-x86/native/libHarfBuzzSharp.so
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/osx/native/libHarfBuzzSharp.dylib
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-arm64/native/libHarfBuzzSharp.pdb
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x64/native/libHarfBuzzSharp.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x64/native/libHarfBuzzSharp.pdb
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x86/native/libHarfBuzzSharp.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x86/native/libHarfBuzzSharp.pdb
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win/lib/net8.0/Microsoft.Win32.SystemEvents.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux/native/selenium-manager
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/osx/native/selenium-manager
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win/native/selenium-manager.exe
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-arm/native/libSkiaSharp.so
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-arm64/native/libSkiaSharp.so
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-loongarch64/native/libSkiaSharp.so
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-arm/native/libSkiaSharp.so
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-arm64/native/libSkiaSharp.so
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-loongarch64/native/libSkiaSharp.so
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-riscv64/native/libSkiaSharp.so
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-x64/native/libSkiaSharp.so
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-riscv64/native/libSkiaSharp.so
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-x64/native/libSkiaSharp.so
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-x86/native/libSkiaSharp.so
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/osx/native/libSkiaSharp.dylib
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-arm64/native/libSkiaSharp.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-arm64/native/libSkiaSharp.pdb
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x64/native/libSkiaSharp.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x64/native/libSkiaSharp.pdb
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x86/native/libSkiaSharp.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x86/native/libSkiaSharp.pdb
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.csproj.AssemblyReference.cache
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/obj/Debug/net10.0/Avalonia/Resources.Inputs.cache
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/obj/Debug/net10.0/Avalonia/resources
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.AssemblyInfoInputs.cache
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.AssemblyInfo.cs
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.csproj.CoreCompileInputs.cache
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/obj/Debug/net10.0/Recommen.1BBACEF1.Up2Date
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/obj/Debug/net10.0/refint/RecommendationsAvalonia.dll
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.pdb
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.genruntimeconfig.cache
+/home/user/Рабочий стол/RecommendationAv/RecommendationsAvalonia/obj/Debug/net10.0/ref/RecommendationsAvalonia.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/RecommendationsAvalonia
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/RecommendationsAvalonia.runtimeconfig.json
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Appium.Net.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Base.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Controls.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.DesignerSupport.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Dialogs.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Markup.Xaml.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Markup.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Metal.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.MicroCom.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.OpenGL.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Vulkan.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Controls.DataGrid.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Desktop.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Fonts.Inter.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.FreeDesktop.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.FreeDesktop.AtSpi.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.HarfBuzz.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Headless.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Headless.NUnit.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Native.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Remote.Protocol.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Skia.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Themes.Fluent.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Win32.Automation.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Win32.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.X11.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/AvaloniaUI.DiagnosticsSupport.Avalonia.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/DialogHost.Avalonia.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/HarfBuzzSharp.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/MsBox.Avalonia.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/MicroCom.Runtime.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Extensions.Caching.Memory.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Extensions.DependencyInjection.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Extensions.Logging.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Extensions.Options.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Extensions.Primitives.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.IO.RecyclableMemoryStream.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Win32.SystemEvents.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Newtonsoft.Json.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/nunit.framework.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/nunit.framework.legacy.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/WebDriver.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/SkiaSharp.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/System.Drawing.Common.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/Tmds.DBus.Protocol.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-arm64/native/av_libglesv2.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x64/native/av_libglesv2.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x86/native/av_libglesv2.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/osx/native/libAvaloniaNative.dylib
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-arm/native/libHarfBuzzSharp.so
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-loongarch64/native/libHarfBuzzSharp.so
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-arm/native/libHarfBuzzSharp.so
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-arm64/native/libHarfBuzzSharp.so
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-loongarch64/native/libHarfBuzzSharp.so
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-riscv64/native/libHarfBuzzSharp.so
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-riscv64/native/libHarfBuzzSharp.so
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-x64/native/libHarfBuzzSharp.so
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-x86/native/libHarfBuzzSharp.so
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/osx/native/libHarfBuzzSharp.dylib
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-arm64/native/libHarfBuzzSharp.pdb
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x64/native/libHarfBuzzSharp.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x64/native/libHarfBuzzSharp.pdb
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x86/native/libHarfBuzzSharp.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x86/native/libHarfBuzzSharp.pdb
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win/lib/net8.0/Microsoft.Win32.SystemEvents.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux/native/selenium-manager
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/osx/native/selenium-manager
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win/native/selenium-manager.exe
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-arm/native/libSkiaSharp.so
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-arm64/native/libSkiaSharp.so
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-loongarch64/native/libSkiaSharp.so
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-arm/native/libSkiaSharp.so
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-arm64/native/libSkiaSharp.so
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-loongarch64/native/libSkiaSharp.so
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-riscv64/native/libSkiaSharp.so
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-x64/native/libSkiaSharp.so
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-riscv64/native/libSkiaSharp.so
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-x64/native/libSkiaSharp.so
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-x86/native/libSkiaSharp.so
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/osx/native/libSkiaSharp.dylib
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-arm64/native/libSkiaSharp.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-arm64/native/libSkiaSharp.pdb
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x64/native/libSkiaSharp.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x64/native/libSkiaSharp.pdb
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x86/native/libSkiaSharp.dll
+/home/user/Рабочий стол/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x86/native/libSkiaSharp.pdb
+/home/user/Рабочий стол/RecommendationsAvalonia/obj/Debug/net10.0/Recommen.1BBACEF1.Up2Date
+/home/user/Рабочий стол/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.genruntimeconfig.cache
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/RecommendationsAvalonia
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/RecommendationsAvalonia.deps.json
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/RecommendationsAvalonia.runtimeconfig.json
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/RecommendationsAvalonia.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/RecommendationsAvalonia.pdb
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/Appium.Net.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Base.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Controls.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.DesignerSupport.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Dialogs.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Markup.Xaml.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Markup.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Metal.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.MicroCom.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.OpenGL.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Vulkan.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Controls.DataGrid.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Desktop.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Fonts.Inter.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.FreeDesktop.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.FreeDesktop.AtSpi.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.HarfBuzz.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Headless.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Headless.NUnit.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Native.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Remote.Protocol.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Skia.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Themes.Fluent.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Win32.Automation.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.Win32.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/Avalonia.X11.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/AvaloniaUI.DiagnosticsSupport.Avalonia.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/DialogHost.Avalonia.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/HarfBuzzSharp.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/MsBox.Avalonia.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/MicroCom.Runtime.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Extensions.Caching.Memory.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Extensions.DependencyInjection.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Extensions.Logging.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Extensions.Options.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Extensions.Primitives.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.IO.RecyclableMemoryStream.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/Microsoft.Win32.SystemEvents.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/Newtonsoft.Json.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/nunit.framework.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/nunit.framework.legacy.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/WebDriver.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/SkiaSharp.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/System.Drawing.Common.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/Tmds.DBus.Protocol.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-arm64/native/av_libglesv2.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x64/native/av_libglesv2.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x86/native/av_libglesv2.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/osx/native/libAvaloniaNative.dylib
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-arm/native/libHarfBuzzSharp.so
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-loongarch64/native/libHarfBuzzSharp.so
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-arm/native/libHarfBuzzSharp.so
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-arm64/native/libHarfBuzzSharp.so
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-loongarch64/native/libHarfBuzzSharp.so
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-riscv64/native/libHarfBuzzSharp.so
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-riscv64/native/libHarfBuzzSharp.so
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-x64/native/libHarfBuzzSharp.so
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-x86/native/libHarfBuzzSharp.so
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/osx/native/libHarfBuzzSharp.dylib
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-arm64/native/libHarfBuzzSharp.pdb
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x64/native/libHarfBuzzSharp.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x64/native/libHarfBuzzSharp.pdb
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x86/native/libHarfBuzzSharp.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x86/native/libHarfBuzzSharp.pdb
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win/lib/net8.0/Microsoft.Win32.SystemEvents.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux/native/selenium-manager
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/osx/native/selenium-manager
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win/native/selenium-manager.exe
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-arm/native/libSkiaSharp.so
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-arm64/native/libSkiaSharp.so
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-loongarch64/native/libSkiaSharp.so
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-arm/native/libSkiaSharp.so
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-arm64/native/libSkiaSharp.so
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-loongarch64/native/libSkiaSharp.so
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-riscv64/native/libSkiaSharp.so
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-musl-x64/native/libSkiaSharp.so
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-riscv64/native/libSkiaSharp.so
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-x64/native/libSkiaSharp.so
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/linux-x86/native/libSkiaSharp.so
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/osx/native/libSkiaSharp.dylib
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-arm64/native/libSkiaSharp.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-arm64/native/libSkiaSharp.pdb
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x64/native/libSkiaSharp.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x64/native/libSkiaSharp.pdb
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x86/native/libSkiaSharp.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/bin/Debug/net10.0/runtimes/win-x86/native/libSkiaSharp.pdb
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.csproj.AssemblyReference.cache
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/obj/Debug/net10.0/Avalonia/Resources.Inputs.cache
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/obj/Debug/net10.0/Avalonia/resources
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.AssemblyInfoInputs.cache
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.AssemblyInfo.cs
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.csproj.CoreCompileInputs.cache
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.sourcelink.json
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/obj/Debug/net10.0/Recommen.1BBACEF1.Up2Date
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/obj/Debug/net10.0/refint/RecommendationsAvalonia.dll
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.pdb
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/obj/Debug/net10.0/RecommendationsAvalonia.genruntimeconfig.cache
+/home/user/Рабочий стол/проект/recommendation/RecommendationsAvalonia/obj/Debug/net10.0/ref/RecommendationsAvalonia.dll

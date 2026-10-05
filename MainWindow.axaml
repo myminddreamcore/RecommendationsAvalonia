@@ -1,0 +1,98 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" MinWidth="1366" MinHeight="768"
+        x:Class="RecommendationsAvalonia.MainWindow"
+        Title="авторизация"
+        Background="#FAF8F5">
+    
+    <Grid>
+        <StackPanel Width="460" 
+                    Margin="0,0,0,0"
+                    VerticalAlignment="Center" 
+                    HorizontalAlignment="Center"
+                    Spacing="0">
+            
+            <Border Background="White"
+                    BorderBrush="#D4C5B0"
+                    BorderThickness="1"
+                    CornerRadius="0"
+                    Padding="32,28">
+                
+                <StackPanel Spacing="24">
+                    
+                    <StackPanel Spacing="8" HorizontalAlignment="Center">
+                        <TextBlock Text="haha.ru" 
+                                   FontSize="26" 
+                                   FontWeight="Normal"
+                                   Foreground="#4A3B2C"
+                                   HorizontalAlignment="Center"/>
+                        <TextBlock Text="Личный кабинет HR" 
+                                   FontSize="14" 
+                                   Foreground="#8B7A6B"
+                                   HorizontalAlignment="Center"/>
+                    </StackPanel>
+
+                    <Border Height="1" Background="#D4C5B0" Margin="0,8,0,8"/>
+
+                    <StackPanel Spacing="20">
+                        <StackPanel Spacing="8">
+                            <TextBlock Text="Email" 
+                                       FontSize="13" 
+                                       Foreground="#5C4D3E"/>
+                            <TextBox Text  =   "1@mail.ru" x:Name="email" 
+                                     Background="White"
+                                     BorderBrush="#D4C5B0"
+                                     BorderThickness="1"
+                                     Padding="10,12"
+                                     FontSize="14"
+                                     Foreground="#5C4D3E"/>
+                        </StackPanel>
+
+                        <StackPanel Spacing="8">
+                            <TextBlock Text="Пароль" 
+                                       FontSize="13" 
+                                       Foreground="#5C4D3E"/>
+                            <Grid ColumnDefinitions="*, Auto">
+                                <TextBox Text  =   "111111" x:Name="password" 
+                                         Grid.Column="0"
+                                         Background="White"
+                                         BorderBrush="#D4C5B0"
+                                         BorderThickness="1"
+                                         Padding="10,12"
+                                         FontSize="14"
+                                         Foreground="#5C4D3E"/>
+                                
+                            </Grid>
+                        </StackPanel>
+
+                        <Grid ColumnDefinitions="*, *, *" ColumnSpacing="12">
+                            <Button x:Name="button" 
+                                    Click="Button_Click"
+                                    Content="Войти"
+                                    Grid.Column="0"
+                                    Background="#8B2C1D"
+                                    BorderThickness="0"
+                                    Foreground="White"
+                                    FontSize="14"
+                                    Padding="12,10"/>
+                           
+                           
+                        </Grid>
+
+                       
+                    </StackPanel>
+
+                    <Border Height="1" Background="#D4C5B0" Margin="0,8,0,0"/>
+
+                    <TextBlock Text="версия 1.0.0" 
+                               FontSize="11" 
+                               Foreground="#8B7A6B"
+                               HorizontalAlignment="Center"
+                               Margin="0,8,0,0"/>
+                </StackPanel>
+            </Border>
+        </StackPanel>
+    </Grid>
+</Window>
