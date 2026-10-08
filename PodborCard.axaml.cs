@@ -48,7 +48,7 @@ public partial class PodborCard : Window
         if (response.IsSuccessStatusCode)
         {
             await MessageBoxManager.GetMessageBoxStandard("", "успешно", ButtonEnum.Ok).ShowAsync();
-            CLose();
+            Close();
 
         }
         else
@@ -60,6 +60,6 @@ public partial class PodborCard : Window
 
     private void Button_Click(object? sender, Avalonia.Interactivity.RoutedEventArgs e)
     {
-        CLose();
+        Close();
     }
 }
